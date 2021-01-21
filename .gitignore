@@ -1,0 +1,6 @@
+# Project exclude paths
+/HotItemsAnalysis/target/
+/LoginFailDetect/target/
+/MarketAnlysis/target/
+/NetworkFlowAnalysis/target/
+/OrderPayDetect/target/
